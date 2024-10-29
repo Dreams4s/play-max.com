@@ -1,0 +1,147 @@
+header {
+    height: 4rem;
+}
+
+.abtt {
+    background-image: url(../images/S1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.about {
+    padding-top: 3rem;
+}
+
+.nnf-imf img {
+    height: 14rem;
+    padding: 0 0 0 3rem;
+}
+
+.nnf-imf p {
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(229, 234, 238, 0.781);
+    margin-bottom: -1.4rem;
+    padding-left: 3rem;
+}
+
+.information {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hhh {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.infor {
+    font-size: 20px;
+    color: rgb(168, 185, 185);
+}
+
+.nf-info {
+    margin-right: 6rem;
+    margin-top: 4rem;
+}
+
+.abtt-1 {
+    background-image: url(../images/ipados-stock-orange-white-background-ipad-ios-13-hd-4480x2520-1551.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.admin {
+    background-image: url(../images/smiley-fire-minimal-art-illustration-dark-background-3840x2160-5718.jpg);
+    display: flex;
+    justify-content: space-between;
+}
+
+.admn {
+    border: none;
+    width: 25vw;
+    text-align: center;
+    padding: 1rem;
+}
+
+.admin img {
+    height: 15rem;
+    width: 15rem;
+    border-radius: 7.5rem;
+    margin: 1rem;
+    background-color: rgb(3, 3, 165);
+}
+
+.add-name {
+    font-size: 22px;
+}
+
+.add-position {
+    font-size: 20px;
+    color: burlywood;
+}
+
+.report textarea {
+    font-size: 20px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+    background-color: rgb(0, 9, 131);
+    color: rgba(126, 139, 150, 0.671);
+}
+
+.report p {
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+    color: blue;
+}
+
+.report textarea:focus {
+    outline: none;
+}
+
+.report {
+    display: grid;
+    justify-content: space-between;
+    padding: 2rem;
+    background-image: url(../images/S6.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn {
+    padding: 10px 2rem;
+    width: 10rem;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 2rem;
+    margin-left: 6rem;
+    border: none;
+    background-color: #ff0000;
+    font-weight: 500;
+    transition: 0.2s ease;
+    color: #fff;
+    font-weight: 500;
+}
+
+.btn:hover {
+    background-color: #000000;
+}
+
+.rep option {
+    font-size: 20px;
+    color: black;
+}
+
+.hhd {
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+    padding-top: 3rem;
+}
